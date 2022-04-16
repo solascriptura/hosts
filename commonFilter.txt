@@ -105,7 +105,41 @@ watson.ppe.telemetry.microsoft.com
 watson.telemetry.microsoft.com
 watson.telemetry.microsoft.com.nsatc.net
 spynetalt.microsoft.com
-
+## --- disconnect links
+adjust.io
+airbrake.io
+appboy.com
+appsflyer.com
+apsalar.com
+bango.combango.org
+bango.net
+basic-check.disconnect.me
+bkrtx.com
+bluekai.com
+bugsense.com
+burstly.com
+chartboost.com
+count.ly
+crashlytics.com
+crittercism.com
+custom-blacklisted-tracking-example.com
+do-not-tracker.org
+eviltracker.net
+flurry.com
+getexceptional.com
+inmobi.com
+jumptap.com
+localytics.com
+mixpanel.com
+mobile-collector.newrelic.com
+mobileapptracking.com
+playtomic.com
+stathat.com
+supercell.net
+tapjoy.com
+trackersimulator.org
+usergrid.com
+vungle.com
 ## --- different soft TELEMETRY
 184-86-53-99.deploy.static.akamaitechnologies.com
 a-0001.a-msedge.net
@@ -215,6 +249,24 @@ c.msn.com
 pricelist.skype.com
 s.gateway.messenger.live.com
 ui.skype.com
+ads.viber.com
+ads-d.viber.com
+ads.aws.viber.com
+adcs.rqmob.com
+preitem.wshareit.com
+mobimagic.com
+adywind.com
+hasmobi.net
+api-a.op-mobile.opera.com
+promotion.polarisoffice.com
+newad.ifeng.com
+afreeca-tag.ad-mapps.com
+mtag.mman.kr
+etl.tindersparks.com
+d27tpsznug51gz.cloudfront.net
+sensors.larkplayerapp.com
+sensors.snaptubeapp.com
+log.kajicam.com
 # --- TV BOX RULES
 #### --- AD servers (https hosts only, for other hosts use privoxy user.action file)
 pagead.l.doubleclick.net
