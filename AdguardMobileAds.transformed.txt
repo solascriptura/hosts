@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 11 Apr 2022 20:20:42 +0100
+# Last converted - Fri, 06 May 2022 23:07:23 +0100
 
 xjnwqdospderqtk.ru
 nfiuerwtftasnuk.com
@@ -23,6 +23,7 @@ api.appnxt.net
 apis.appnxt.net
 banners-slb.mobile.yandex.net
 banners.mobile.yandex.net
+app.ssp.yahoo.com
 m.yap.yahoo.com
 ads.go2reach.com
 mimicromax.com
@@ -81,6 +82,8 @@ c3.myapkcdn.in
 54.222.186.106
 plugin.mobopay.baidu.com
 mo.freeindoapp.com
+r2d2.aotter.net
+tkcatrun.aotter.net
 cdn.jampp.com
 imgx.jampp.com
 static.jampp.com
@@ -197,7 +200,6 @@ ajdivotdelbloab24.jio.com
 adxcorp.kr
 adsmobila.com
 tw-api.vpon.com
-haorun.pw
 ts166.net
 imrworldwide.com
 tccbanner.com
@@ -584,11 +586,9 @@ bannerwall.herewetest.com
 bannerwall.s3.appcnt.com
 bayctrk.com
 bcfads.com
-beatchucknorris.com
 begun.ru
 bepolite.eu
 bet365affiliates.com
-betaffs.com
 betrad.com
 bigmobileads.com
 bizographics.com
@@ -662,8 +662,6 @@ exp.glispa.com
 exponential.com
 fastclick.net
 fiksu.com
-findbestsolution.net
-fizcell.mobi
 fluentmobile.com
 flurry.cachefly.net
 flurry.com
@@ -685,7 +683,6 @@ goodadvert.ru
 googleadservices.com
 greystripe.com
 grt02.com
-grt03.com
 gsmtop.net
 gts-ads.twistbox.com
 gumgum.com
@@ -705,7 +702,6 @@ i-vengo.com
 i.skimresources.com
 iad.appboy.com
 iadsdk.apple.com
-iamediaserve.com
 imasdk.googleapis.com
 infolinks.com
 inmobi.com
@@ -792,16 +788,13 @@ mobile333.com
 mobileads.msn.com
 mobilecore.com
 mobiledl.adboe.com
-moboland.net
 mobon.com
 mobpartner.mobi
-mobred.net
 mobytrks.com
 mobzver.ru
 mocean.mobi
 mofox.com
 mojiva.com
-mologiq.net
 mookie1.com
 morgdm.ru
 mprezchc.com
@@ -812,7 +805,6 @@ mtrcss.com
 mxtads.com
 mxttrf.com
 mydas.mobi
-myinfotopia.com
 mythings.com
 n4403ad.doubleclick.net
 nanigans.com
@@ -829,13 +821,11 @@ njs.manhuahome.com
 nkredir.com
 nmcdn.us
 nomalleadzuaff.com
-nonmoves.date
 novostimira.biz
 numbers.md
 nxtck.com
 oclaserver.com
 onclickads.net
-ongkidcasarv.com
 optimatic.com
 os.scmpacdn.com
 owap.su
@@ -859,7 +849,6 @@ popander.mobi
 popcash.net
 popmarker.com
 poptm.com
-popularitish.com
 popunderz.com
 pos.baidu.com
 postrelease.com
@@ -881,7 +870,6 @@ reporo.net
 revcontent.com
 revmob.com
 richpays.com
-robocat.me
 rotaban.ru
 rtb.nexage.com
 rtbpop.com
@@ -926,10 +914,8 @@ supersonicads.com
 swelen.com
 switchadhub.com
 syndication.trafficreps.com
-t3q7af0z.com
 tap-nexus.appspot.com
 tapad.com
-tapcreatives.net
 tapit.com
 tapjoyads.com
 tapone.jp
@@ -943,7 +929,6 @@ teracreative.com
 terraclicks.com
 thetrafficstat.net
 thoughtleadr.com
-thoughtsondance.info
 tidaltv.com
 tizerclik.com
 tm1.hoiplay.com
@@ -965,7 +950,6 @@ trk.glispa.com
 tubemogul.com
 turn.com
 u-ad.info
-u1hw38x0.com
 ultraadserver.com
 umbel.com
 underclick.ru
@@ -987,7 +971,6 @@ waiads.com
 wap-click.com
 wapstart.ru
 wbn.su
-websexy.mobi
 west.bidtellect.com
 widespace.com
 wordego.com
@@ -1011,7 +994,6 @@ youradexchange.com
 yuhuads.com
 zedo.com
 ziffdavis.com
-zoglafi.info
 recreativ.ru
 hqsjc.com
 deloton.com

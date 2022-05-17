@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 16 Apr 2022
+# Updated: 16 May 2022
 # LatestVersion 22.03
-# Domain Count: 14635
+# Domain Count: 14671
 #===============================================================
 
 1-cl0ud.com
@@ -82,7 +82,6 @@ ad-maven.com
 ad-score.com
 ad-serverparc.nl
 ad-stir.com
-ad-stub-tvc.cdnvideo.ru
 ad.12dt.com
 ad.daum.net
 ad.ettoday.net
@@ -215,7 +214,6 @@ adrsp.net
 adrta.com
 adrtx.net
 adrunnr.com
-ads-creativesyndicator.com
 ads-d.viber.com
 ads.4x4brasil.com.br
 ads.adsolut.in
@@ -253,7 +251,6 @@ ads.pinger.com
 ads.pointermedia.hu
 ads.press24.mk
 ads.proboards.com
-ads.samartdigitalmedia.com
 ads.samba.tv
 ads.shasha.ps
 ads.sportslocalmedia.com
@@ -269,7 +266,6 @@ ads.veterinaren.nu
 ads.viber.com
 ads.yahoo.com
 ads.yap.yahoo.com
-ads.zilesinopti.ro
 ads1.knxs.net
 ads1.msn.com
 ads2.focus-news.net
@@ -290,7 +286,6 @@ adserver.automobilwoche.de
 adserver.boersen-zeitung.de
 adserver.diariodosertao.com.br
 adserver.doccheck.com
-adserver.earlygame.com
 adserver.html.it
 adserver.lenouvelliste.com
 adserver.logisticaprofesional.com
@@ -397,7 +392,6 @@ agafurretor.com
 agentanalytics.com
 agkn.com
 ahalogy.com
-ahwrin88tl.com
 aiir.net
 aimatch.com
 aimtell.com
@@ -492,6 +486,7 @@ analytics.global.sky.com
 analytics.google.com
 analytics.greensender.pl
 analytics.htmedia.in
+analytics.ihg.com
 analytics.jibecdn.com
 analytics.kaltura.com
 analytics.khmerload.com
@@ -531,6 +526,7 @@ analytics.nike.com
 analytics.ninjakiwi.com
 analytics.ns1.ff.avast.com
 analytics.oneplus.cn
+analytics.ostr.io
 analytics.ovh.com
 analytics.pinterest.com
 analytics.playinfinity.cn
@@ -543,7 +539,6 @@ analytics.quizizz.com
 analytics.regex101.com
 analytics.rodpub.com
 analytics.rosehosting.com
-analytics.routemehome.org
 analytics.samsungknox.com
 analytics.schoolwires.com
 analytics.sem-track.com
@@ -554,6 +549,7 @@ analytics.socialcube.me
 analytics.spotify.com
 analytics.svt.se
 analytics.theta360.com
+analytics.ticketmaster.co.uk
 analytics.tiktok.com
 analytics.tmonews.com
 analytics.trionworlds.com
@@ -570,6 +566,7 @@ analytics.yard.nl
 analytics.yolacdn.net
 analytics.yongjinbao.com.cn
 analytics.yugen.to
+analytics.zinlab.com
 analyticsmsp.com
 analyticspixel.microsoft.com
 and.co.uk
@@ -581,6 +578,7 @@ aniview.com
 anm.co.uk
 anrdoezrs.net
 answerscloud.com
+antio-nar.com
 anyclip.com
 anythinktech.com
 apester.com
@@ -630,6 +628,7 @@ apxlv.com
 aqcxa.com
 aqua-adserver.com
 arbourrenewal.com
+archyads.net
 arcpublishing.com
 arg.redgiant.com
 arguerepetition.com
@@ -642,6 +641,8 @@ atgsvcs.com
 ati-host.net
 atl-6-ga.com
 atomz.com
+attentivemobile.com
+attn.tv
 attributionapp.com
 atwola.com
 audienceinsights.net
@@ -720,6 +721,7 @@ betweendigital.com
 betweenx.com
 bevyup.com
 bid.glass
+bidence.net
 bidgear.com
 bidmyqps.xyz
 bidr.io
@@ -779,7 +781,6 @@ brightcove.services
 brightedge.com
 brightinfo.com
 brightline.tv
-brilig.com
 britepool.com
 brpx.com
 bstats.org
@@ -885,6 +886,7 @@ clickback.com
 clickbank.net
 clickcertain.com
 clickdensity.com
+clickdimensions.com
 clickfrog.ru
 clickfunnels.com
 clickfuse.com
@@ -903,7 +905,6 @@ clinch.co
 clixgalore.com
 clixmetrix.com
 clkads.com
-clkcln.com
 clkdeals.com
 clkfeed.com
 clkmon.com
@@ -916,14 +917,12 @@ clouderrorreporting.googleapis.com
 cluep.com
 cluodlfare.com
 cmail1.com
-cmail18.com
 cmail19.com
 cmail2.com
 cmail20.com
 cmail3.com
 cmail4.com
 cmail5.com
-cmail8.com
 cmcore.com
 cmdspassets.com
 cnt-tm-1.com
@@ -943,7 +942,6 @@ comscore.com
 comscoreresearch.com
 condenastdigital.com
 confirmsubscription.com
-congressaffrayghosts.com
 connatix.com
 connct-9.com
 connectad.io
@@ -959,6 +957,7 @@ contextweb.com
 conversionlogic.net
 convertexperiments.com
 convertize.com
+convertize.io
 convertro.com
 conviva.com
 convrse.media
@@ -976,6 +975,7 @@ counter.tengrinews.kz
 counter.theconversation.com
 counter.yandro.ru
 countess.twitch.tv
+coveo.com
 coveritlive.com
 cpex.cz
 cpmnetworkcontent.com
@@ -1016,6 +1016,7 @@ cten10010.com
 ctnsnet.com
 cuckooretire.com
 cuebiq.com
+curalate.com
 curulate.com
 cusperbid.com
 customer.io
@@ -1034,6 +1035,7 @@ datacaciques.com
 datadoghq-browser-agent.com
 datadoghq.com
 datatracking.ru
+datatracking.zeddit.com
 datawrapper.de
 dauup.com
 daydot.agency
@@ -1151,7 +1153,6 @@ eclkspsa.com
 ecustomeropinions.com
 ed-clr-01.com
 edgeme.sh
-edgyintimidate.com
 edigitalresearch.com
 edigitalsurvey.com
 edmanalytics.pandahall.com
@@ -1210,7 +1211,6 @@ emltrk.com
 emsservice.de
 emxdgt.com
 en25.com
-encasedandelionhauled.com
 encouragingpast.com
 enecto.com
 engage.wixapps.net
@@ -1306,6 +1306,7 @@ forensiq.com
 foresee.com
 foreseeresults.com
 formalyzer.com
+forter.com
 forwardtomyfriend.com
 fqtag.com
 fredhopperservices.com
@@ -1388,7 +1389,6 @@ granify.com
 grapeshot.co.uk
 grapeshot.com
 graphiq.com
-gravelyelectricthicket.com
 gravity.com
 greengrowth.space
 greystripe.com
@@ -1662,6 +1662,7 @@ libertystmedia.com
 librato.com
 licasd.com
 liftdna.com
+liftoff.io
 ligadx.com
 ligatus.com
 lightcast.com
@@ -1673,6 +1674,7 @@ linkis.com
 linkoffers.net
 linkpulse.com
 linksynergy.com
+lipperhey.com
 liqwid.net
 listrakbi.com
 litix.io
@@ -1838,6 +1840,7 @@ metrics.hitman.io
 metrics.icloud.com
 metrics.ionos.com
 metrics.ionos.de
+metrics.media-amazon.com
 metrics.mzstatic.com
 metrics.pico.tools
 metrics.plex.tv
@@ -3020,6 +3023,7 @@ mkt11047.com
 mkt11049.com
 mkt1105.com
 mkt11050.com
+mkt11051.com
 mkt11052.com
 mkt11053.com
 mkt11054.com
@@ -3115,6 +3119,7 @@ mkt11138.com
 mkt11139.com
 mkt1114.com
 mkt11140.com
+mkt11141.com
 mkt11142.com
 mkt11143.com
 mkt11145.com
@@ -3144,6 +3149,7 @@ mkt1117.com
 mkt11170.com
 mkt11171.com
 mkt11172.com
+mkt11173.com
 mkt11175.com
 mkt11176.com
 mkt11177.com
@@ -3173,15 +3179,18 @@ mkt11209.com
 mkt1121.com
 mkt11210.com
 mkt11211.com
+mkt11212.com
 mkt11213.com
 mkt11214.com
 mkt11215.com
 mkt11216.com
 mkt11217.com
+mkt11218.com
 mkt1122.com
 mkt11220.com
 mkt11221.com
 mkt11222.com
+mkt11223.com
 mkt11224.com
 mkt11226.com
 mkt11227.com
@@ -3189,6 +3198,7 @@ mkt11228.com
 mkt1123.com
 mkt11230.com
 mkt11231.com
+mkt11232.com
 mkt11233.com
 mkt11234.com
 mkt11235.com
@@ -3220,26 +3230,39 @@ mkt11260.com
 mkt11261.com
 mkt11263.com
 mkt11264.com
+mkt11265.com
 mkt11266.com
 mkt11267.com
 mkt11268.com
 mkt11269.com
 mkt1127.com
+mkt11270.com
 mkt11271.com
 mkt11272.com
 mkt11273.com
 mkt11274.com
+mkt11275.com
 mkt11276.com
 mkt11277.com
+mkt11278.com
 mkt11279.com
 mkt1128.com
+mkt11280.com
 mkt11281.com
+mkt11282.com
+mkt11283.com
+mkt11285.com
 mkt11286.com
+mkt11287.com
 mkt11288.com
 mkt1129.com
+mkt11290.com
 mkt11291.com
 mkt11292.com
+mkt11293.com
+mkt11294.com
 mkt11295.com
+mkt11296.com
 mkt11297.com
 mkt11298.com
 mkt11299.com
@@ -3250,9 +3273,25 @@ mkt11302.com
 mkt11304.com
 mkt11306.com
 mkt11307.com
+mkt11309.com
 mkt1131.com
+mkt11312.com
+mkt11313.com
+mkt11315.com
+mkt11316.com
+mkt11319.com
 mkt1132.com
+mkt11320.com
+mkt11324.com
+mkt11325.com
+mkt11328.com
 mkt1133.com
+mkt11331.com
+mkt11332.com
+mkt11334.com
+mkt11335.com
+mkt11336.com
+mkt11339.com
 mkt1134.com
 mkt1135.com
 mkt1136.com
@@ -12381,6 +12420,7 @@ mobpartner.mobi
 mobring.co
 mobytrks.com
 mocean.mobi
+modoro360.com
 moengage.com
 mojiva.com
 mommygravelyslime.com
@@ -12472,6 +12512,7 @@ nextbigsound.com
 nextdocs.com
 nextplatform.com
 nicherev.io
+nigelmidnightrappers.com
 nighkclick.biz
 nineanalytics.io
 ninjacat.io
@@ -12614,8 +12655,8 @@ peer39.net
 peerius.com
 pepperjam.com
 pepperjamnetwork.com
-perceivefilthy.com
 perfb.com
+perfdrive.com
 perfectaudience.com
 perfectmarket.com
 perfecttoolmedia.com
@@ -12710,7 +12751,6 @@ ppchero.com
 ppjol.net
 preanalytication.com
 prebid.org
-pressingmiscellaneoustry.com
 pricespider.com
 prijspakkertje.nl
 primis.tech
@@ -12764,7 +12804,6 @@ pubs2.latinspots.com
 pubsqrd.com
 pubstack.io
 pubtrack.co
-puddlemalnutritioncult.com
 pulsemgr.com
 pump.to
 purch.com
@@ -12825,17 +12864,14 @@ questmedia.ru
 r.i0.cz
 r023m83skv5v.com
 r1-cdn.net
-r24-tech.com
 r42tag.com
 r7ls.net
-raasnet.com
 rad.live.com
 radiantsands.com
 radiantskilled.com
 radiumone.com
 rallyad-server.net
 rampanel.com
-rat1.com
 rayjump.com
 rbl.ms
 rcsmetrics.it
@@ -12859,7 +12895,6 @@ refersion.com
 refinedads.com
 regulationprivilegescan.top
 reklama.silnet.pl
-relestar.com
 remarketingpixel.com
 rename.net
 repixel.co
@@ -13011,7 +13046,6 @@ servedby-buysellads.com
 servedbyopenx.com
 servenobid.com
 serverbid.com
-servesharp.net
 serving-sys.com
 sessioncam.com
 sex-affiliation.com
@@ -13104,7 +13138,7 @@ skyword.com
 sli-spark.com
 smaato.com
 smaato.net
-smart-hub.io
+smadex.com
 smart.bid
 smart.link
 smartadserver.com
@@ -13197,6 +13231,7 @@ smetrics.bankinter.com
 smetrics.bankofmelbourne.com.au
 smetrics.banter.com
 smetrics.barclays.co.uk
+smetrics.bbb.org
 smetrics.bbva.com.ar
 smetrics.bbva.com.co
 smetrics.bbva.com.uy
@@ -13281,6 +13316,7 @@ smetrics.christies.com
 smetrics.churchill.com
 smetrics.ciena.com
 smetrics.cisco.com
+smetrics.citibank.co.uk
 smetrics.citibank.com.au
 smetrics.citibank.com.hk
 smetrics.citibank.com.my
@@ -13326,12 +13362,10 @@ smetrics.ctshirts.com
 smetrics.ctv.ca
 smetrics.cua.com.au
 smetrics.cultura.com
-smetrics.cuna.org
 smetrics.currys.co.uk
 smetrics.cyrillus.fr
 smetrics.cytivalifesciences.com
 smetrics.darty.com
-smetrics.dashandstars.com
 smetrics.deakin.edu.au
 smetrics.default.com
 smetrics.dekalbasgrowdeltapine.com
@@ -13420,7 +13454,6 @@ smetrics.francosarto.com
 smetrics.frontier.com
 smetrics.frontline.com
 smetrics.ftd.com
-smetrics.g-shock.com
 smetrics.gaes.es
 smetrics.gatesnotes.com
 smetrics.gcimetrics.com
@@ -13497,7 +13530,6 @@ smetrics.investec.com
 smetrics.investec.com.cdn.cloudflare.net
 smetrics.investorsgroup.com
 smetrics.irishjobs.ie
-smetrics.is702.jp
 smetrics.iselect.com.au
 smetrics.jardiance.com
 smetrics.jared.com
@@ -13598,6 +13630,7 @@ smetrics.miles-and-more.com
 smetrics.misumi-ec.com
 smetrics.mitsubishi-motors.co.jp
 smetrics.mitsubishi-motors.com.au
+smetrics.mizuno.com
 smetrics.mizuno.jp
 smetrics.modernatx.com
 smetrics.modernhealthcare.com
@@ -13771,7 +13804,6 @@ smetrics.sap.com
 smetrics.sasktel.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
-smetrics.savewithsrpbiz.com
 smetrics.saxobank.com
 smetrics.sbs.com.au
 smetrics.sce.com
@@ -14078,7 +14110,6 @@ stats.ryzeo.com
 stats.sa-as.com
 stats.safeway.com
 stats.searchanise.com
-stats.shell-tips.com
 stats.unity3d.com
 stats.valitype.com
 stats.victoriaplum.com
@@ -14112,6 +14143,7 @@ streamsend.com
 strikead.com
 struq.com
 styleszelife.com
+stylitics.com
 sub2tech.com
 successfultogether.co.uk
 successionflimsy.com
@@ -14219,7 +14251,6 @@ thescv.team
 thetacdn.net
 thisisarray.com
 thisiswaldo.com
-thricemodestsuffix.com
 thrtle.com
 tidaltv.com
 tifbs.net
@@ -14232,6 +14263,7 @@ tkqlhce.com
 tl813.com
 tm-awx.com
 tm1-001.com
+tmmkjvphbawgul.com
 tns-counter.ru
 tns-cs.net
 topaz-analytics.com
@@ -14290,6 +14322,7 @@ tracker.tutotoons.com
 trackerhqu.com
 trackerrysrv.com
 tracking-analytics.net
+tracking.aegpresents.com
 tracking.atreemo.com
 tracking.cmjump.com.au
 tracking.csgipe.com
@@ -14430,7 +14463,6 @@ userreplay.net
 userreport.com
 userzoom.com
 utarget.ru
-v1sts.me
 v6lvs.com
 va-endpoint.com
 vacaneedasap.com
@@ -14489,6 +14521,7 @@ vilynx.com
 vindicosuite.com
 viqeo.tv
 virtuoussoftware.com
+visenze.com
 visistat.com
 visitor-analytics.io
 visitortracklog.com
@@ -14531,6 +14564,7 @@ web-analytics-cn.huami.com
 web-analytics-de.huami.com
 web-analytics.huami.com
 web-metrica.yandex.ru
+web3ads.net
 webads.eu
 webads.nl
 webcollage.com
@@ -14610,6 +14644,7 @@ yieldmanager.com
 yieldmo.com
 yieldoptimizer.com
 yjtag.jp
+ykvlen.com
 yldbt.com
 yldmgrimg.net
 ymmobi.com
@@ -14634,6 +14669,7 @@ zeusclicks.com
 zingyads.com
 zkcdn.net
 zoomanalytics.co
+zoominfo.com
 zotabox.com
 zprk.io
 zqtk.net
